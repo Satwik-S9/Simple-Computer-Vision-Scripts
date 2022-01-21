@@ -1,0 +1,9 @@
+The object is a Circle and time taken for detection:  6.70 ms
+The object is a Triangle and time taken for detection:  4.00 ms
+The object is a Circle and time taken for detection:  2.00 ms
+The object is a Circle and time taken for detection:  1.70 ms
+The object is a Triangle and time taken for detection:  4.10 ms
+The object is a Triangle and time taken for detection:  5.60 ms
+The object is a Circle and time taken for detection:  4.00 ms
+The object is a Circle and time taken for detection:  3.10 ms
+The object is a No Object Found! and time taken for detection:  1.80 ms
